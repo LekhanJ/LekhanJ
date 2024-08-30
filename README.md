@@ -11,7 +11,7 @@
 
 ## 🌐Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/Lekhan Jomwiale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekhan jomwiale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/LekhanJomwiale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekhan jomwiale" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jomiwalelekhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jomiwalelekhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lekhanj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lekhanj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lekhanj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lekhanj" height="30" width="40" /></a>
