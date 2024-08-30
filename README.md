@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LekhanJ](https://github.com/LekhanJ)
-- 
+  
 - 📫 How to reach me **jomiwalelekhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
