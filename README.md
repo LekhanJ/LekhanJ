@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lekhan</h1>
 <h3 align="center">Computer Science student exploring the future of technology through code.</h3>
-<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkYmFnaG9iNTZ4OGZxeDRqdzFpZjdwdmk1eW42OGljemUybGd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+<img align="right" alt="coding" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkYmFnaG9iNTZ4OGZxeDRqdzFpZjdwdmk1eW42OGljemUybGd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 - 🔭 I’m currently working on [Chess Engine](https://github.com/LekhanJ/Chess-Engine)
 
