@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student exploring the future of technology through code.</h3>
 <img align="right" alt="coding" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkYmFnaG9iNTZ4OGZxeDRqdzFpZjdwdmk1eW42OGljemUybGd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
-- 🔭 I’m currently working on [2D Game Engine](https://github.com/LekhanJ/Game-Engine)
+- 🔭 I’m currently working on [DeadFall](https://github.com/LekhanJ/DeadFall-UI)
 
 - 🌱 I’m currently learning **Spring boot**
 
