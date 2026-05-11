@@ -58,10 +58,12 @@ I love building backend systems that are scalable, reliable, and production-read
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Lekhan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-![](https://komarev.com/ghpvc/?username=Lekhan&style=flat-square&color=blueviolet)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=Lekhan&style=flat-square&color=blueviolet)<br/>
+  ![](https://github-readme-stats.shion.dev/api?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://streak-stats.demolab.com/?user=Lekhan&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
