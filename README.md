@@ -5,6 +5,7 @@
 I love building backend systems that are scalable, reliable, and production-ready.<br><br>Currently focused on:<br>- Java & Spring Boot Microservices<br>- Distributed Systems & System Design<br>- Python, FastAPI & AI Applications<br>- Cloud & DevOps Fundamentals<br><br>I enjoy understanding how large-scale systems actually work under the hood.
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=vercel&logoColor=white)](https://lekhanj.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lekhanjomiwale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jomiwalelekhan@gmail.com) 
 
 # 💻 Tech Stack:
