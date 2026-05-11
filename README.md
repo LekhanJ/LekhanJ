@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="coding" width="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJrM292MzYyOHo1Mjc0Ym90ejZqNDMzNWZoY21reDdra2U1ZzRxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+<img align="right" alt="coding" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJrM292MzYyOHo1Mjc0Ym90ejZqNDMzNWZoY21reDdra2U1ZzRxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
 I love building backend systems that are scalable, reliable, and production-ready.<br><br>Currently focused on:<br>- Java & Spring Boot Microservices<br>- Distributed Systems & System Design<br>- Python, FastAPI & AI Applications<br>- Cloud & DevOps Fundamentals<br><br>I enjoy understanding how large-scale systems actually work under the hood.
 
