@@ -64,9 +64,9 @@ I love building backend systems that are scalable, reliable, and production-read
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=Lekhan&style=flat-square&color=blueviolet)<br/>
-  ![](https://github-readme-stats.shion.dev/api?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=Lekhan&theme=dracula&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lekhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://komarev.com/ghpvc/?username=LekhanJ&style=flat-square&color=blueviolet)<br/>
+  ![](https://github-readme-stats.shion.dev/api?username=LekhanJ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://streak-stats.demolab.com/?user=LekhanJ&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LekhanJ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
